@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\bin\Debug\net8.0\TienLai.exe
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\bin\Debug\net8.0\TienLai.deps.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\bin\Debug\net8.0\TienLai.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\bin\Debug\net8.0\TienLai.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\bin\Debug\net8.0\TienLai.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\refint\TienLai.dll
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.pdb
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\TienLai.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\Vong Lap3\TienLai\obj\Debug\net8.0\ref\TienLai.dll
